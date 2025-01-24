@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viktor1910
-- 👀 I’m interested in coding, love React
-- 🌱 I’m currently Analyst Developer
+- 👀 I’m interested in coding
+- 🌱 I’m currently Frontend engineer
 - 📫 How to reach me: nguyenvu19.dev@gmail.com
 
 <!---
